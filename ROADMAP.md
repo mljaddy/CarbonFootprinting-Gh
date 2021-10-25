@@ -2,7 +2,7 @@
 
 Welcome to the Roadmap for CarbonFootprinting of Buildings in Ghana.
 
-Please check the README[ ] for an overview if you havent read it yet 
+Please check the [README](https://github.com/mljaddy/CarbonFootprinting-Gh/blob/main/README.md) for an overview if you havent read it yet 
 
 ## What we need to do
 
