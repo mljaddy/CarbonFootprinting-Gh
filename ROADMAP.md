@@ -12,20 +12,22 @@ The creation of the online database needs to be looked at in two major phases. F
 
 In creating the online database there are two key questions that need to be answered;
 
-1. What data are we expecting to be supplied?
-2. What format should the data be available in and how should that data be supplied?
+> What data are we expecting to be supplied?
+
+> What format should the data be available in and how should that data be supplied?
 
 ### Calculating Method for CarbonFoot Printing
 
-What methods or what is the best method should be used to compute the carbon foot print
+There are a number of ways of calculating Carbon Footprinting. For this project it is important to decide;
+>What methods or what is the best method should be used to compute the carbon foot print
 
-How should the results of these be displayed for easy usage
+>How should the results of these be displayed for easy usage
 
 
 ### Creating the Online Community
 
-What is the best way to engage the key stakeholders to ensure
-1. Data is supplied to the site
-2. Data is used on the site
+What is the best way to engage the key stakeholders to ensure;
+> Data is supplied to the site
+> Data is used on the site
 
 
