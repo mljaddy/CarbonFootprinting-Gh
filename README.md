@@ -6,3 +6,14 @@ Key goals of the Project
 * Creating the metrics for the Online Database
 * Developing a platform for Online community engagement
 
+
+### Contact Me!
+
+Michael Nii Addy 
+
+Email: 
+* mnaddy.cabe@knust.edu.gh
+
+* mljaddy@yahoo.co.uk
+       
+
